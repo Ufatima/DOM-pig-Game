@@ -1,5 +1,5 @@
 # DOM PIG GAME
-![alt tag](print.png)
+![alt tag](back.jpg)
 
 # Description
 - The game has 2 players, playing in rounds
